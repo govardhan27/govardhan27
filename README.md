@@ -162,11 +162,6 @@ I'm passionate about building real-world AI tools that help people extract insig
 - 🧳 [Resume (PDF)](https://yourwebsite.com/resume.pdf)
 - 📬 [Email](mailto:your.email@example.com) -->
 
-## 🔗 More Links
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/govardhan-narayana-swamy/)
-- 📧 [Email](mailto:27.govardhan@gmail.com) 
-
 ---
 
 _Thanks for visiting! Feel free to connect._ 🤝
