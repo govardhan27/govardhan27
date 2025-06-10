@@ -17,7 +17,6 @@
   <a href="https://www.linkedin.com/in/govardhan-narayana-swamy/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:27.govardhan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/govardhan27"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <!-- <a href="https://yourwebsite.com/resume.pdf"><img src="https://img.shields.io/badge/-Resume-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white"/></a> -->
 </p>
 
 ---
@@ -91,11 +90,8 @@ I'm passionate about building real-world AI tools that help people extract insig
 
 ### 1️⃣ Formula 1 Constructors Data Visualization
 
-<!-- 🟢 **Live:** [Try it now](https://f1-data-visualization.vercel.app/)  
-📂 **Code:** [GitHub Repo](https://github.com/govardhan27/f1-data-visualization) -->
-
-🟢 **Live:** <a href="https://f1-data-visualization.vercel.app/" target="_blank" rel="noopener noreferrer">Try it now</a>  
-📂 **Code:** <a href="https://github.com/govardhan27/f1-data-visualization" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+🟢 **Live:** [Try it now](https://f1-data-visualization.vercel.app/)  
+📂 **Code:** [GitHub Repo](https://github.com/govardhan27/f1-data-visualization) 
 
 > Interactive visualization of Formula 1 constructor performance and statistics.
 
@@ -121,13 +117,9 @@ I'm passionate about building real-world AI tools that help people extract insig
 
 ### 2️⃣ AI PDF Chat Assistant
 
-<!-- 🟢 **Live:** [Try it now](https://18.175.140.199.nip.io/)  
+🟢 **Live:** [Try it now](https://18.175.140.199.nip.io/)  
 📂 **Code:** [GitHub Repo](https://github.com/govardhan27/pdf-chat)  
-🎥 **Demo:** [Vimeo Walkthrough](https://vimeo.com/1073830913/a77eaadbd6?ts=0&share=copy) -->
-
-🟢 **Live:** <a href="https://18.175.140.199.nip.io/" target="_blank" rel="noopener noreferrer">Try it now</a>  
-📂 **Code:** <a href="https://github.com/govardhan27/pdf-chat" target="_blank" rel="noopener noreferrer">GitHub Repo</a>  
-🎥 **Demo:** <a href="https://vimeo.com/1073830913/a77eaadbd6?ts=0&share=copy" target="_blank" rel="noopener noreferrer">Vimeo Walkthrough</a>
+🎥 **Demo:** [Vimeo Walkthrough](https://vimeo.com/1073830913/a77eaadbd6?ts=0&share=copy) 
 
 > Upload PDFs. Ask questions. Get answers with memory and adaptive learning.
 
@@ -172,11 +164,8 @@ I'm passionate about building real-world AI tools that help people extract insig
 
 ## 🔗 More Links
 
-<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/govardhan-narayana-swamy/)
-- 📧 [Email](mailto:27.govardhan@gmail.com) -->
-
-- 💼 <a href="https://www.linkedin.com/in/govardhan-narayana-swamy/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- 📧 <a href="mailto:27.govardhan@gmail.com">Email</a>
+- 💼 [LinkedIn](https://www.linkedin.com/in/govardhan-narayana-swamy/)
+- 📧 [Email](mailto:27.govardhan@gmail.com) 
 
 ---
 
