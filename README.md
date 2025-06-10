@@ -91,8 +91,11 @@ I'm passionate about building real-world AI tools that help people extract insig
 
 ### 1️⃣ Formula 1 Constructors Data Visualization
 
-🟢 **Live:** [Try it now](https://f1-data-visualization.vercel.app/)  
-📂 **Code:** [GitHub Repo](https://github.com/govardhan27/f1-data-visualization)
+<!-- 🟢 **Live:** [Try it now](https://f1-data-visualization.vercel.app/)  
+📂 **Code:** [GitHub Repo](https://github.com/govardhan27/f1-data-visualization) -->
+
+🟢 **Live:** <a href="https://f1-data-visualization.vercel.app/" target="_blank" rel="noopener noreferrer">Try it now</a>  
+📂 **Code:** <a href="https://github.com/govardhan27/f1-data-visualization" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
 
 > Interactive visualization of Formula 1 constructor performance and statistics.
 
@@ -118,9 +121,13 @@ I'm passionate about building real-world AI tools that help people extract insig
 
 ### 2️⃣ AI PDF Chat Assistant
 
-🟢 **Live:** [Try it now](https://18.175.140.199.nip.io/)  
+<!-- 🟢 **Live:** [Try it now](https://18.175.140.199.nip.io/)  
 📂 **Code:** [GitHub Repo](https://github.com/govardhan27/pdf-chat)  
-🎥 **Demo:** [Vimeo Walkthrough](https://vimeo.com/1073830913/a77eaadbd6?ts=0&share=copy)
+🎥 **Demo:** [Vimeo Walkthrough](https://vimeo.com/1073830913/a77eaadbd6?ts=0&share=copy) -->
+
+🟢 **Live:** <a href="https://18.175.140.199.nip.io/" target="_blank" rel="noopener noreferrer">Try it now</a>  
+📂 **Code:** <a href="https://github.com/govardhan27/pdf-chat" target="_blank" rel="noopener noreferrer">GitHub Repo</a>  
+🎥 **Demo:** <a href="https://vimeo.com/1073830913/a77eaadbd6?ts=0&share=copy" target="_blank" rel="noopener noreferrer">Vimeo Walkthrough</a>
 
 > Upload PDFs. Ask questions. Get answers with memory and adaptive learning.
 
@@ -145,10 +152,31 @@ I'm passionate about building real-world AI tools that help people extract insig
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
+
+
+<!-- 
+## 📈 GitHub Stats (Dark Mode Ready)
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=govardhan27&show_icons=true&theme=dark" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=govardhan27&theme=dark" />
+</p>
+
+--- -->
+
+<!-- ## 🔗 More Links
+
+- 🌐 [Personal Website](https://yourwebsite.com)
+- 🧳 [Resume (PDF)](https://yourwebsite.com/resume.pdf)
+- 📬 [Email](mailto:your.email@example.com) -->
+
 ## 🔗 More Links
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/govardhan-narayana-swamy/)
-- 📧 [Email](mailto:27.govardhan@gmail.com)
+<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/govardhan-narayana-swamy/)
+- 📧 [Email](mailto:27.govardhan@gmail.com) -->
+
+- 💼 <a href="https://www.linkedin.com/in/govardhan-narayana-swamy/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 📧 <a href="mailto:27.govardhan@gmail.com">Email</a>
 
 ---
 
