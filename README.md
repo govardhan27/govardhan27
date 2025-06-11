@@ -14,21 +14,29 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/govardhan-narayana-swamy/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/govardhan-narayana-swamy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://govardhan-software-engineer.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white"/></a>
   <a href="mailto:27.govardhan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/govardhan27"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  📍 <b>London, United Kingdom</b> • Available for full-time opportunities
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm passionate about building real-world AI tools that help people extract insights from data effortlessly. I specialize in end-to-end development of intelligent, scalable platforms using modern front-end, backend, and AI technologies.
+🚀 **Full-Stack AI Engineer** with 5+ years building complete web applications using modern frontend frameworks, scalable backend systems, and cutting-edge AI integration. I'm passionate about creating end-to-end intelligent platforms that help people extract insights from data effortlessly.
 
-- ⚡ Fast learner who thrives in ownership-driven roles
-- ☁️ Architected scalable, cost-optimized AI systems with AWS & serverless
-- 💬 Built custom RAG pipelines, semantic search engines, and LLM chatbots
-- 🧩 I enjoy simplifying complex workflows using code
+**What I Build:**
+- ⚡ **Fast-learning engineer** who thrives in ownership-driven roles and delivers end-to-end solutions
+- ☁️ **Scalable AI systems** with AWS serverless architecture, cost-optimized for production
+- 💬 **Custom RAG pipelines**, semantic search engines, and intelligent LLM chatbots
+- 🧩 **User-focused platforms** that simplify complex data workflows through intuitive interfaces
+
+I specialize in bridging cutting-edge AI research with practical applications that deliver exceptional user experiences powered by advanced AI capabilities.
 
 ---
 
